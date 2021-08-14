@@ -1,0 +1,24 @@
+{
+  "name": "latest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bootstrap": "^5.0.2",
+    "express": "^4.17.1",
+    "formik": "^2.2.9",
+    "react-bootstrap": "^1.6.1",
+    "react-color-palette": "^6.1.0",
+    "react-router-bootstrap": "^0.25.0",
+    "yup": "^0.32.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  
+  "author": "",
+  "license": "ISC"
+}
